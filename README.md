@@ -23,4 +23,6 @@ Aul 26 - Entendendo o padrâo BEM (Bloco, Elemento e Modificador)
 <br>
 Aula 27 - Recriando a tela de login do Facebook: Estruturando o HTML.
 <br>
- 
+Aula 28 - Recriando a tela de login do Facebook: Testando a resposividade
+<br>
+
