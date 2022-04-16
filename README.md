@@ -5,7 +5,7 @@ Aula 17 - Introdução ao HTML : Criando suas primeiras páginas
 <br>
 Aula 18 - Introdução ao HTML : Navegação entre páginas
 <br>
-Aula 19 -Introdução ao HTML: Criando um formulário
+Aula 19 - Introdução ao HTML: Criando um formulário
 <br>
 Aula 20 - Revisão
 <br>
@@ -13,15 +13,15 @@ Aula 21 - Introdução ao CSS : Criando seus Primeiros estilos
 <br>
 Aula 22 - Introdução ao CSS : Seletores
 <br>
-Aula 23 -Introdução ao CSS responsivo: Media Queries 
+Aula 23 - Introdução ao CSS responsivo: Media Queries 
 <br>
 Aula 24 - Introdução ao CSS responsivo: Grid e/ou Flexbox
 <br>
 Aula 25 - Revisão
 <br>
-Aul 26 - Entendendo o padrâo BEM (Bloco, Elemento e Modificador)
+Aula 26 - Entendendo o padrâo BEM (Bloco, Elemento e Modificador)
 <br>
-Aula 27 - Recriando a tela de login do Facebook: Estruturando o HTML.
+Aula 27 - Recriando a tela de login do Facebook: Estruturando o HTML
 <br>
 Aula 28 - Recriando a tela de login do Facebook: Criando os estilos CSS
 <br>
