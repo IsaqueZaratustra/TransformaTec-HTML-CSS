@@ -17,3 +17,6 @@ Aula 23 -Introdução ao CSS responsivo: Media Queries
 <br>
 Aula 24 - Introdução ao CSS responsivo: Grid e/ou Flexbox
 <br>
+Aula 25 - Revisão
+<br>
+
