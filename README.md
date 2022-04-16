@@ -9,5 +9,7 @@ Aula 19 -Introdução ao HTML: Criando um formulário
 <br>
 Aula 20 - Revisão
 <br>
-Aula 21 - Introdução ao CSS : Seletores
+Aula 21 - Introdução ao CSS : Criando seus Primeiros estilos
+<br>
+Aula 22 - Introdução ao CSS : Seletores
 <br>
