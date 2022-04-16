@@ -31,3 +31,4 @@ Aula 30 - Recriando a tela de login do Instagram: Estruturando o HTML
 <br>
 Aula 31 - Recriando a tela de login do Intagram: Criando estilos CSS
 <br>
+Aula 32 - Recriando a tela de login do Intagram: Testando resposividade
