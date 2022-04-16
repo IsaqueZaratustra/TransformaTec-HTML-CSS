@@ -19,4 +19,6 @@ Aula 24 - Introdução ao CSS responsivo: Grid e/ou Flexbox
 <br>
 Aula 25 - Revisão
 <br>
+Aul 26 - Entendendo o padrâo BEM (Bloco, Elemento e Modificador)
+<br>
 
